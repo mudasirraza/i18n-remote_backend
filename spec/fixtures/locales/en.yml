@@ -1,0 +1,4 @@
+en:
+  foo: 'local bar'
+  test:
+    hello: 'local world'
